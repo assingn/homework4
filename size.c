@@ -9,5 +9,5 @@ void main() //main문 시작
 
     printf("sizeof(x) = %lu\n", sizeof(x)); //x의 메모리 영역 크기를 출력(vscode는 32bits 환경이므로 4bytes 출력)
     printf("sizeof(*x) = %lu\n", sizeof(*x)); //*x의 메모리 영역 크기를 출력(vscode는 32bits 환경이므로 4bytes 출력)
-    printf("sizeof(**x) = %lu\n", sizeof(**x)); //**x의 메모리 영역 크기를 출력
+    printf("sizeof(**x) = %lu\n", sizeof(**x)); //**x의 메모리 영역 크기를 출력.
 }

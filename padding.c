@@ -15,5 +15,5 @@ int main() //main함수 시작
     printf("size of int = %ld\n", sizeof(int)); //int의 크기 출력
     printf("size of short = %ld\n", sizeof(short)); //short의 크기 출력
     
-    return 0; //0값 반환
+    return 0; //0값 반환.
 }

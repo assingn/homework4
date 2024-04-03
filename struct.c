@@ -35,5 +35,5 @@ int main() { //main문 시작
     else
         printf("not equal\n");
 
-    return 0; //0값 반환
+    return 0; //0값 반환.
 }
